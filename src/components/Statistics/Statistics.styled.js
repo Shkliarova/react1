@@ -27,7 +27,8 @@ padding-top: 20px;`
 export const StatisticsList = styled.ul`
 display: flex;
 align-items: center;
-justify-content: center;`
+justify-content: center;
+color: white;`
 
 export const StatisticsItem = styled.li`
 display: flex;
